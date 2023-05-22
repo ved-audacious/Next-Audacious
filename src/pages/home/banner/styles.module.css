@@ -1,0 +1,58 @@
+.fluidContainer{
+    --bs-gutter-x: 0rem;
+}
+
+
+.backgroundImage{
+    background-image: url(../../../assets/images/rz51.jpg);
+    height: 510px;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+.mainContainer{
+    display: flex;
+    justify-content: center;
+
+}
+.mainText2{
+    margin: 167px;
+    
+}
+
+
+.h1tag{
+    color: rgb(233, 232, 232);
+    /* font: normal normal 600 50px/57px Inter; */
+    font: normal normal 600 ;
+    font-size: 50px;
+    line-height: 57px;
+    font-family: 'Inter', sans-serif;
+}
+.ptag{
+    color: #54A8C7;
+}
+.imageComp{
+ width: 600px;
+ height: 533px;
+ margin: 67px;
+
+}
+.paragraph{
+    color: rgb(242, 242, 246);
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 36px;
+    font-size: medium;
+    line-height: 24px;
+    font-family: 'Inter', sans-serif;
+}
+.button{
+    padding: 10px 39px;
+    background-color: #54A8C7;
+    color: white;
+    border: 2px solid #54A8C7;
+    opacity: 1;
+    border-radius: 8px;
+}

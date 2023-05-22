@@ -1,0 +1,28 @@
+
+.mainBox{
+    margin-bottom: 50px;
+}
+
+.paratag{
+    color: #54A8C7;
+}
+
+.formDiv{
+    margin-left: 126px;
+    width: 80%;
+}
+.formInput{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid #E4F1F6;
+    
+}
+.submitButton{
+    background-color: #54A8C7;
+    color: white;
+    padding: 10px;
+}
+.submitButton:hover{
+    background-color: blue;
+   
+}

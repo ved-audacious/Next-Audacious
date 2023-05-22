@@ -1,0 +1,62 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+
+ .gotohome{
+
+  display: flex;
+  justify-content: center;
+  margin-top: 25%;
+ }
+
+
+ .imageSizeC{
+
+  height: 500px;
+  width: 100%;
+  border-radius: 20px;
+ }
+
+.crImage{
+  box-shadow: 20px 20px #EFF7FA;
+  border-radius: 20px;
+  
+}
+.crHead{
+padding: 25px 0px;
+
+}
+
+.vl {
+  border-left: 3.5px solid #54A8C7;
+  height: 150px;
+  border-radius: 4px;
+  padding: 6px;
+  
+}
+.linktagtext{
+  text-decoration: none;
+  color:#54A8C7 ;
+  cursor: pointer;
+
+}
+.carousel-indicators {
+  margin-bottom: 0px;
+}
+
+.carousel-control-prev{
+margin-bottom: 95px;
+}
+
+.carousel-control-next{
+  margin-bottom: 95px;
+}
+
+
+.carouselPsrs{
+  font-weight: bold;
+  height: 5px;
+}
+

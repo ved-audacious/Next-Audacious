@@ -1,0 +1,67 @@
+.mainBox{
+    /* height: auto; */
+    /* border: 3px solid red; */
+    /* margin: 10px 100px; */
+    /* margin-bottom: 55px; */
+}
+
+
+.paratext{
+color: #54A8C7;
+}
+
+
+
+
+
+
+.cardBox{
+    display: flex;
+    justify-content: space-between
+}
+
+.cards{
+    position: relative;
+    margin-top: 88px;
+    /* border: 10px; */
+    width: 18rem;
+}
+
+.cliImages{
+    position: absolute;
+    top:-59px;
+    right: 88px;
+}
+.cardText{
+    padding: 53px 16px 0px 16px;
+}
+.hrtag{
+    color: #54A8C7;
+    width: 95px;
+    margin-left: 0px 55px;
+    opacity: 1;
+    border-top: 4px solid;
+    border-radius: 2px;
+}
+
+.names{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.parentDiv{
+    position:relative;
+    /* background-color: red; */
+    height: 50px;
+}
+.childDiv{
+    position:absolute ;
+    margin-top: 400px;
+    background-color:#E4F1F6;
+    height: 250px;
+    width: 100%;
+    display: block;
+    
+}

@@ -1,0 +1,25 @@
+.mainBox{
+    position: relative;
+    margin: 54px 0px;
+}
+
+
+.bgColor{
+background-color: #E4F1F6;
+height: 800px;
+width: 100%;
+position: absolute;
+z-index: -1;
+
+
+}
+
+.paraText{
+    color: #54A8C7;
+    padding-top: 50px;
+}
+
+.imageMain{
+    height: 100%;
+    width: 100%;
+}

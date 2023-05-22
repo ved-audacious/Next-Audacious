@@ -1,0 +1,81 @@
+.outerContainer{
+  padding: 0px;
+}
+
+.officeDetailContainer{
+  background-color:rgb(25, 33, 50);
+  color: aliceblue;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.officeAdd{
+  
+  color:#54a8c7;
+}
+
+.paratext{
+  font-size: 12px;
+  color: white;
+}
+.rowContainer{
+  margin: 50px;
+  border:"5px solid red";
+  
+}
+
+.linkTag{
+  color:white;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 14px;
+  margin-left: 6px;
+  
+}
+.iconTitle{
+  color:white;
+  font-size: 12px;
+  margin-left: 8px;
+}
+.content{
+  
+  color:#54a8c7;
+  margin-left: 45px;
+  
+  
+}
+.copyrightContainer{
+  background-color:rgb(84, 168, 199);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: black;
+  font-size: smaller;
+  
+}
+.subCopyrightContainer1{
+  
+  margin-left: 130px;
+  font-size: smaller;
+  
+}
+.subCopyrightContainer2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.copyrightLink{
+  margin: 0 2rem;
+  font-size: smaller;
+  text-decoration: none;
+  color: black;
+}
+.mapText{
+  color: #54a8c7;
+}

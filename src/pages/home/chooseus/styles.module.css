@@ -1,0 +1,32 @@
+.mainbox{
+    margin: 50px 0px;
+    /* width: auto; */
+    /* padding: 20px; */
+
+}
+
+
+.image1{
+    width: 600px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 15px 15px #E4F1F6 ;
+}
+.paratag{
+    color: #54A8C7;
+}
+
+.numbericon{
+    background-color:#E4F1F6;
+    padding: 10px;
+    color: #54A8C7;
+    border-radius: 8px;
+    margin-right: 10px;
+    
+
+}
+.titleContent{
+    
+    margin-left: 43px;
+    height: auto;
+}

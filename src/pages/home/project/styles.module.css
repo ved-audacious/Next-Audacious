@@ -1,0 +1,24 @@
+.mainBox{
+    margin-top: 105px;
+}
+
+
+.paratag{
+    color: #54A8C7;
+}
+ 
+.usecorousel{
+    margin: 20px 0px 50px 0px ;
+    width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+.moreWorkBtn{
+    background-color: #54A8C7;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    border: 0px solid white;
+    margin-left: 200px;
+}

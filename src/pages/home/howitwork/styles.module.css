@@ -1,0 +1,32 @@
+.mainbox{
+    margin-top: 60px;
+}
+
+.titleContainer{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.paraText{
+    color:#54A8C7 ;
+    font-size: 14px;
+    
+}
+
+.container {
+    position: relative;
+    margin: 50px;
+
+}
+
+.bgContainer {
+    padding: 2px;
+    position: absolute;
+    z-index: -1;
+    color:#E4F1F6;
+}
+.bgtext{
+    font-size: 120px;
+}
+.uperText{
+    /* padding: 30px; */
+}
