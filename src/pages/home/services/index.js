@@ -1,4 +1,3 @@
-
 import Image from 'next/image'
 import { Col, Row } from 'reactstrap'
 import servicepic from "../../../assets/images/02.jpg"

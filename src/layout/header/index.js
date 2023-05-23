@@ -8,35 +8,35 @@ import {
   
   Navbar,
   Nav,
-  
+  Container
   
 } from 'reactstrap';
 
 function Header(args) {
-  const [isOpen, setIsOpen] = useState(false);
 
-  const toggle = () => setIsOpen(!isOpen);
 
   return (
-    <div>
-      <Navbar  className={header.navbar} fixed="top">
+    <Navbar  className={header.navbar} fixed="top">
+             <Container   className={header.mainCon}>
             
-            <Image 
-               className={header.logo} 
-               src={logo}
-               alt="Audacious"
-            /> 
+                          <Image 
+                             className={header.logo} 
+                             src={logo}
+                             alt="Audacious"
+                          /> 
        
-
-      <Nav>
-            <Nav><Link className={header.linkTag} href='/'>Home</Link></Nav>
-            <Nav><Link className={header.linkTag} href='/aboutus'>About us</Link></Nav>
-            <Nav><Link className={header.linkTag} href="/blogs">Blogs</Link></Nav>
-            <Nav><Link className={header.linkTag} href="/careers"> Careers</Link> </Nav>
-            <Nav><Link className={header.linkBtn} href='/talktous'>Talk To Us</Link></Nav>
-       </Nav>
+        
+                       <Nav>
+                             <Nav><Link className={header.linkTag} href='/'>Home</Link></Nav>
+                             <Nav><Link className={header.linkTag} href='/aboutus'>About us</Link></Nav>
+                             <Nav><Link className={header.linkTag} href="/blogs">Blogs</Link></Nav>
+                             <Nav><Link className={header.linkTag} href="/careers"> Careers</Link> </Nav>
+                             <Nav><Link className={header.linkBtn} href='/talktous'>Talk To Us</Link></Nav>
+                        </Nav>
+       
+  
+                        </Container>
       </Navbar>
-    </div>
   );
 }
 
