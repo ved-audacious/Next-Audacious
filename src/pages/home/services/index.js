@@ -11,7 +11,7 @@ const Services = () => {
       <Row>
       <Col>
       <p className={styles.textcolor}>services</p>
-      <h3 >We're an Independent </h3>
+      <h3 >We're an Independents </h3>
       <h3>Design & Development Agency.</h3>
       <div className={styles.iconHead} > <span  className={styles.icon}> <Lsgt/> </span><h5 className={styles.heading}> Software Development</h5></div>
       <p className={styles.headingDescription}>Morbi interlus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar facilisis.</p>
